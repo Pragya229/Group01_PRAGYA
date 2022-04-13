@@ -15,7 +15,7 @@ const Image = props => (
               name
               childImageSharp {
                 gatsbyImageData(
-                  width: 1200
+                  width: 600
                   placeholder: BLURRED
                   layout: CONSTRAINED
                 )

@@ -8,7 +8,7 @@ const QuestionList = [
     },
     {
       question:
-        'Where is the train station "Llanfair¬pwllgwyngyll¬gogery¬chwyrn¬drobwll-llan¬tysilio¬gogo¬goch"?',
+        'Where is the train station "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch"?',
       answers: ["Wales", "Moldova", "Czech Republic", "Denmark"],
       correct: "Czech Republic",
       questionId: "183452",
@@ -62,4 +62,3 @@ const QuestionList = [
     Promise.resolve(QuestionList.sort(() => 0.5 - Math.random()).slice(0, n))
   
   export default QuestionBank
-  

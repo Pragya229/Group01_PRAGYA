@@ -1,12 +1,12 @@
 import React from "react"
+import Hero from "../components/Hero/Hero"
 import Layout from "../components/Layout/Layout"
+import QuestionBank from "../components/Quiz/QuestionBank"
 
 const Index = () => {
   return (
     <Layout>
-      <div className="card shadow m-2 p-2 text-primary">
-        Test <div className="btn btn-warning">OK</div>
-      </div>
+      <Hero/>
     </Layout>
   )
 }
