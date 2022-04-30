@@ -1,6 +1,6 @@
 import React from "react"
 
-const ContactUs = () => (
+const Contact = () => (
   <section className="contactus-section">
     <div className="container py-5">
       <div className="row justify-content-center align-items-center">
@@ -73,5 +73,4 @@ const ContactUs = () => (
     </div>
   </section>
 )
-
-export default ContactUs
+export default Contact

@@ -8,13 +8,13 @@ const Hero = () => {
         <div className="col-10 col-sm-8 col-lg-6">
           <Image
             className="d-block mx-lg-auto img-fluid"
-            filename="1.png"
+            filename="BZi.png"
             alt="1"
           />
         </div>
         <div className="col-lg-6">
           <h1 className="display-5 fw-bold lh-1 mb-3">
-            Responsive left-aligned hero with image
+            BRAINZONE
           </h1>
           <p className="lead">
             Quickly design and customize responsive mobile-first sites with

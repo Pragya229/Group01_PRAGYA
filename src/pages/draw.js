@@ -2,6 +2,7 @@ import React, { useEffect, useLayoutEffect, useRef, useState } from "react"
 import { Link } from "gatsby"
 import rough from "roughjs/bundled/rough.esm"
 import getStroke from "perfect-freehand"
+import Layout from "../components/Layout/Layout"
 
 
 const generator = rough.generator()
@@ -46,6 +47,7 @@ const createElement = (id, x1, y1, x2, y2, type) => {
 const nearPoint = (x, y, x1, y1, name) => {
   return Math.abs(x - x1) < 5 && Math.abs(y - y1) < 5 ? name : null
 }
+ 
 
 const onLine = (x1, y1, x2, y2, x, y, maxDistance = 1) => {
   const a = { x: x1, y: y1 }
