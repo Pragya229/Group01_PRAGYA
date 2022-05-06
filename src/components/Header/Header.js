@@ -65,12 +65,7 @@ const Header = () => {
           </li> */}
           </ul>
           <form>
-            <input
-              className="form-control"
-              type="text"
-              placeholder="Search"
-              aria-label="Search"
-            />
+            
           </form>
         </div>
       </div>

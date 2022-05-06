@@ -11,7 +11,7 @@ export default function About() {
              alt="1"
              />
        
-        <h1 class="display-10 fw-bold lh-1 mb-3 text-center text-warning">About Us </h1>
+        <h1 class="display-10 fw-bold lh-1 mb-3 text-center text-bold">About Us </h1>
         <div class="container col-xxl-20 px-2 py-2">
         <h2 class="display-10 fw-bold lh-1 mb-3 ">What is BRAINZONE?</h2>
           <p class="lead">“BRAINZONE” or we can also say “ Fun Group Project” is an innovative platform which provides quizzes , 
@@ -29,6 +29,13 @@ export default function About() {
          However, complex 3D images are not considered for the project.
          The images created using this application can be saved. We can further retrieve the images and view them. However, the options for editing of images like cropping are also provided. We are able to save the images into raw file format. So the images can be viewed anywhere downloaded in your system.
          This application is compatible with Windows Operating System, MacOs etc.</p>
+
+         <h2 class="display-10 fw-bold lh-1 mb-3 ">BLOG</h2>  
+
+          <p class="lead"> A blog is a frequently updated. In this section user can read articles and view images according to their interests. It is a fun activity and at the same time it is informative.</p>
+
+         
+
 
           
 

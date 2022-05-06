@@ -1,30 +1,45 @@
 import React from "react"
-import { ArrowCounterclockwise, BrushFill, Download , House } from "react-bootstrap-icons"
+import { ArrowClockwise, ArrowCounterclockwise, Book, BrushFill, Download , Eyeglasses, House, LightbulbFill, Pencil, Textarea,Lightbulb } from "react-bootstrap-icons"
 
 const Items = [
   {
-    icon: <House />,
-    title: "Home",
-    description: "Welcome Home",
+    icon: <ArrowClockwise />,
+    title: "Redo",
+    description: "You can redo your work instantly"
   },
 
   {
     icon: <ArrowCounterclockwise/>,
     title: "Undo",
-    description: "Erase your mistakes easily and digitally.",
+    description: "Erase your mistakes easily and digitally"
   },
 
   {
-    icon: <BrushFill />,
-    title: "Brush",
-    description: "Enjoy while you draw.",
+    icon: <Pencil/>,
+    title: "Pencil",
+    description: "Enjoy while you draw"
   },
 
   {
     icon: <Download/>,
     title: "Download",
-    description: "Download your favourite diagrams easily",
+    description: "Download your favourite diagrams easily"
   },
+  {
+    icon: <Book/>,
+    title: "Blog",
+    description:"Enjoy the blogs "
+  },
+  {
+    icon: <Lightbulb/>,
+    title: "Quiz",
+    description: "Attempt the quiz and test your knowledge"
+  },
+  {
+    icon: <Textarea/>,
+    title: "Text",
+    description: "You can write your texts on the white board"
+  }
 ]
 
 const Features = () => {

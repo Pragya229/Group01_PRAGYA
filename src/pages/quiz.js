@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout/Layout"
+import Image from "../components/Images/Images"
 import QuestionBank from "../components/Quiz/QuestionBank"
 import QuestionBox from "../components/Quiz/QuestionBox"
 import QuestionBoxResponse from "../components/Quiz/QuestionBoxResponse"
@@ -43,6 +44,11 @@ class QuizMe extends React.Component {
   render() {
     return (
       <Layout>
+        <Image 
+             className="d-block mx-lg-auto img-fluid"
+             filename={"quiz.jpg"}
+             alt="1"
+             />
        
         <section className="quiz-section">
          

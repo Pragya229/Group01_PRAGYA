@@ -219,9 +219,9 @@ const QuestionList = [
     question:
       "The following places represent the contemporary 4 Dhamas of Hindu Pilgrimage in India?   ",
       answers: [
-        "Badrinath -Kedarnath – Amarnath – Vaishnodevi",
-        "Badrinath – Kedarnatrh – Gangotri – Yamunotri",
-        "Badrinath – Kedarnath – Rameshwaram – Puri",
+        "Badrinath -Kedarnath -Amarnath -Vaishnodevi",
+        "Badrinath -Kedarnatrh -Gangotri -Yamunotri",
+        "Badrinath -Kedarnath -Rameshwaram -Puri",
         "Badrinath -Rameshwaram -Puri -Dwarka",
       ],
       correct: "Badrinath -Rameshwaram -Puri -Dwarkar",
@@ -632,17 +632,11 @@ const QuestionList = [
     correct: "Rajasthan",
     questionId: "83",
   },
-  {
-    question:
-      "Which country is the source for the fundamental Duties?   ",
-    answers: ["India", "Japan", " Russia", "America"],
-    correct: "Russia",
-    questionId: "84",
-  },
+  
   {
     question:
       "Who holds the record of winning Lok Sabha election with the highest margin of votes?   ",
-    answers: ["Morarji Desai", "Atal Bihari Bajpayi", " Shastri", "Anil Basu"],
+    answers: ["Morarji Desai", "Atal Bihari Bajpayi", "Shastri", "Anil Basu"],
     correct: "Anil Basu",
     questionId: "85",
   },

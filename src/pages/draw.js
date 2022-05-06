@@ -23,15 +23,7 @@ const createElement = (id, x1, y1, x2, y2, type) => {
         type === "ellipse" && generator.ellipse(x1, y1, x2 - x1, y2 - y1)
       return { id, x1, y1, x2, y2, type, roughEllipse }
 
-    case "triangle":
-      const roughTriangle =
-        type === "triangle" && generator.triangle()(x1, y1, x2 - x1, y2 - y1)
-      return { id, x1, y1, x2, y2, type, roughTriangle }
-
-    case "square":
-      const roughSquare =
-        type === "square" && generator.square(x1, y1, x2 - x1, y2 - y1)
-      return { id, x1, y1, x2, y2, type, roughSquare }
+    
 
     case "pencil":
       return { id, type, points: [{ x: x1, y: y1 }] }
@@ -67,8 +59,6 @@ const positionWithinElement = (x, y, element) => {
       return start || end || on
     case "rectangle":
     case "ellipse":
-    case "triangle":
-    case "square":
       const topLeft = nearPoint(x, y, x1, y1, "tl")
       const topRight = nearPoint(x, y, x2, y1, "tr")
       const bottomLeft = nearPoint(x, y, x1, y2, "bl")
@@ -105,7 +95,7 @@ const getElementAtPosition = (x, y, elements) => {
 
 const adjustElementCoordinates = element => {
   const { type, x1, y1, x2, y2 } = element
-  if (type === "rectangle" || type === "ellipse" || type === "triangle" || type === "square") {
+  if (type === "rectangle" || type === "ellipse") {
     const minX = Math.min(x1, x2)
     const maxX = Math.max(x1, x2)
     const minY = Math.min(y1, y2)
@@ -206,12 +196,6 @@ const drawElement = (roughCanvas, context, element) => {
     case "ellipse":
       roughCanvas.draw(element.roughEllipse)
       break
-    case "triangle":
-        roughCanvas.draw(element.roughTriangle)
-        break
-    case "square":
-        roughCanvas.draw(element.roughSquare)
-        break
     case "pencil":
       const stroke = getSvgPathFromStroke(getStroke(element.points))
       context.fill(new Path2D(stroke))
@@ -227,7 +211,7 @@ const drawElement = (roughCanvas, context, element) => {
 }
 
 const adjustmentRequired = type =>
-  ["line", "rectangle", "ellipse", "triangle", "square"].includes(type)
+  ["line", "rectangle", "ellipse"].includes(type)
 
 const App = () => {
   const [elements, setElements, undo, redo, clear] = useHistory([])
@@ -281,8 +265,6 @@ const App = () => {
       case "line":
       case "rectangle":
       case "ellipse":
-      case "triangle":
-      case "square":
         elementsCopy[id] = createElement(id, x1, y1, x2, y2, type)
         break
       case "pencil":
@@ -506,32 +488,6 @@ const App = () => {
         </button>
         <button
           className={
-            tool === "triangle"
-              ? "btn btn-primary m-1"
-              : "btn btn-outline-primary m-1"
-          }
-          type="checkbox"
-          id="triangle"
-          checked={tool === "triangle"}
-          onClick={() => setTool("triangle")}
-        >
-          Triangle
-        </button>
-        <button
-          className={
-            tool === "square"
-              ? "btn btn-primary m-1"
-              : "btn btn-outline-primary m-1"
-          }
-          type="checkbox"
-          id="square"
-          checked={tool === "square"}
-          onClick={() => setTool("square")}
-        >
-          Square
-        </button>
-        <button
-          className={
             tool === "pencil"
               ? "btn btn-primary m-1"
               : "btn btn-outline-primary m-1"
@@ -607,9 +563,6 @@ const App = () => {
     </div>
   )
 }
-
+     <Layout/>
 export default App
 
-function newFunction() {
-  return generator.triangle
-}

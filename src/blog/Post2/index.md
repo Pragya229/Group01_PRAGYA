@@ -1,44 +1,75 @@
 ---
-title: "This is a second Blog Post"
+title: "Climate Change and Global Warming"
 date: "01-03-2022"
-author: "member2"
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "blog2.jpg"
+author: "Tamanna"
+description: "World temperatures are rising because of human activity, and climate change now threatens every aspect of human life."
+image: "blog3.jpg"
 ---
 
-# What is Lorem Ipsum?
+World temperatures are rising because of human activity, and climate change now threatens every aspect of human life.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Left unchecked, humans and nature will experience catastrophic warming, with worsening droughts, greater sea level rise and mass extinction of species.
 
-## Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+We face a huge challenge, but there are potential solutions.
 
+# What is climate change?
+Climate is the average weather in a place over many years. Climate change is a shift in those average conditions.
 
-# Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.
+The rapid climate change we are now seeing is caused by humans using oil, gas and coal for their homes, factories and transport.
 
-- from a Lorem Ipsum passage
-- and going through the cites
-- of the word in classical literature
+When these fossil fuels burn, they release greenhouse gases - mostly carbon dioxide (CO2). These gases trap the Sun's heat and cause the planet's temperature to rise.
 
-# discovered the undoubtable source
+The world is now about 1.2C warmer than it was in the 19th Century - and the amount of CO2 in the atmosphere has risen by 50%.
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Temperature rises must slow down if we want to avoid the worst consequences of climate change, scientists say. They say global warming needs to be kept to 1.5C by 2100.
 
-```
-npm install -global yarn
-npm install -global gatsby-cli
-yarn
-gatsby develop
-yarn add bootstrap @popperjs/core sass gatsby-plugin-sass
-```
+However, unless further action is taken, the planet could still warm by more than 2C by the end of this century. A report in 2021 by the Climate Action Tracker group calculated that the world was heading for 2.4C of warming by the end of the century.
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+If nothing is done, scientists think global warming could exceed 4C in the future, leading to devastating heatwaves, millions losing their homes to rising sea levels and irreversible loss of plant and animal species.
 
-# Where can I get some?
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+# What is the impact of climate change?
+Extreme weather events are already more intense, threatening lives and livelihoods.
 
-> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.
-### Heading
+With further warming, some regions could become uninhabitable, as farmland turns into desert. In other regions, the opposite is happening, with extreme rainfall causing historic flooding - as seen recently in China, Germany, Belgium and the Netherlands.
 
-It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+People in poorer countries will suffer the most as they do not have the money to adapt to climate change. Many farms in developing countries already have to endure climates that are too hot and this will only get worse.
+
+Our oceans and its habitats are also under threat. The Great Barrier Reef in Australia, for example, has already lost half of its corals since 1995 due to warmer seas driven by climate change.
+
+Wildfires are becoming more frequent as climate change increases the risk of hot, dry weather.
+
+And as frozen ground melts in places like Siberia, greenhouse gases trapped for centuries will be released into the atmosphere, worsening climate change.
+
+In a warmer world, animals will find it harder to find the food and water they need to live. For example, polar bears could die out as the ice they rely on melts away, and elephants will struggle to find the 150-300 litres of water a day they need.
+
+Scientists believe at least 550 species could be lost this century if action is not taken.
+
+# How will different parts of the world be affected?
+Climate change has different effects in different areas of the world. Some places will warm more than others, some will receive more rainfall and others will face more droughts.
+
+If temperature rise cannot be kept within 1.5C:
+
+The UK and Europe will be vulnerable to flooding caused by extreme rainfall
+Countries in the Middle East will experience extreme heatwaves and farmland could turn to desert
+Island nations in the Pacific region could disappear under rising seas
+Many African nations are likely to suffer droughts and food shortages
+Drought conditions are likely in the western US, while other areas will see more intense storms
+Australia is likely to suffer extremes of heat and drought
+
+# What are governments doing?
+Countries agree climate change can only be tackled by working together, and in a landmark agreement in Paris in 2015, they pledged to try to keep global warming to 1.5C.
+
+The UK is hosting a summit for world leaders, called COP26, in November, where countries will set out their carbon reduction plans for 2030.
+
+Many countries have pledged to get to net zero by 2050. This means reducing greenhouse gas emissions as much as possible and balancing out remaining emissions by absorbing an equivalent amount from the atmosphere.
+
+Experts agree that this is achievable, but it will require governments, businesses and individuals to make big changes.
+
+# What can individuals do?
+Major changes need to come from governments and businesses, but scientists say some small changes in our lives can limit our impact on the climate:
+
+Take fewer flights
+Live car-free or use an electric car
+Buy energy efficient products, such as washing machines, when they need replacing
+Switch from a gas heating system to an electric heat pump
+Insulate your home.

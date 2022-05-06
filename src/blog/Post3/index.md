@@ -1,44 +1,47 @@
 ---
-title: "This is a title of THIRD Blog Post "
+title: "The Future of Cryptocurrency "
 date: "02-03-2022"
-author: "member3"
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "blog3.jpg"
+author: "Puja"
+description: "A cryptocurrency is a digital currency that is created and managed through the use of advanced encryption techniques known as cryptography."
+image: "blog2.jpg"
 ---
 
-# What is Lorem Ipsum?
+A cryptocurrency is a digital currency that is created and managed through the use of advanced encryption techniques known as cryptography. Cryptocurrency made the leap from being an academic concept to (virtual) reality with the creation of Bitcoin in 2009. While Bitcoin attracted a growing following in subsequent years, it captured significant investor and media attention in April 2013 when it peaked at a record $266 per bitcoin after surging 10-fold in the preceding two months. Bitcoin sported a market value of over $2 billion at its peak, but a 50% plunge shortly thereafter sparked a raging debate about the future of cryptocurrencies in general and Bitcoin in particular. So, will these alternative currencies eventually supplant conventional currencies and become as ubiquitous as dollars and euros someday? Or are cryptocurrencies a passing fad that will flame out before long? The answer lies with Bitcoin.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-## Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+# The Future of Cryptocurrency
+Some economic analysts predict a big change in crypto is forthcoming as institutional money enters the market. Moreover, there is the possibility that crypto will be floated on the Nasdaq, which would further add credibility to blockchain and its uses as an alternative to conventional currencies. Some predict that all that crypto needs is a verified exchange traded fund (ETF). An ETF would definitely make it easier for people to invest in Bitcoin, but there still needs to be the demand to want to invest in crypto, which might not automatically be generated with a fund.
 
 
-# Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.
+# Understanding Bitcoin
+Bitcoin is a decentralized currency that uses peer-to-peer technology, which enables all functions such as currency issuance, transaction processing and verification to be carried out collectively by the network. While this decentralization renders Bitcoin free from government manipulation or interference, the flipside is that there is no central authority to ensure that things run smoothly or to back the value of a Bitcoin. Bitcoins are created digitally through a “mining” process that requires powerful computers to solve complex algorithms and crunch numbers. They are currently created at the rate of 25 Bitcoins every 10 minutes and will be capped at 21 million, a level that is expected to be reached in 2140.
 
-- from a Lorem Ipsum passage
-- and going through the cites
-- of the word in classical literature
+These characteristics make Bitcoin fundamentally different from a fiat currency, which is backed by the full faith and credit of its government. Fiat currency issuance is a highly centralized activity supervised by a nation’s central bank. While the bank regulates the amount of currency issued in accordance with its monetary policy objectives, there is theoretically no upper limit to the amount of such currency issuance. In addition, local currency deposits are generally insured against bank failures by a government body. Bitcoin, on the other hand, has no such support mechanisms. The value of a Bitcoin is wholly dependent on what investors are willing to pay for it at a point in time. As well, if a Bitcoin exchange folds up, clients with Bitcoin balances have no recourse to get them back.
 
-# discovered the undoubtable source
+# Bitcoin Future Outlook
+The future outlook for bitcoin is the subject of much debate. While the financial media is proliferated by so-called crypto-evangelists, Harvard University Professor of Economics and Public Policy Kenneth Rogoff suggests that the “overwhelming sentiment” among crypto advocates is that the total “market capitalisation of cryptocurrencies could explode over the next five years, rising to $5-10 [trillion].”
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+The historic volatility of the asset class is “no reason to panic,” he says. Still, he tempered his optimism and that of the “crypto evangelist” view of Bitcoin as digital gold, calling it “nutty,” stating its long-term value is “more likely to be $100 than $100,000.”
 
-```
-npm install -global yarn
-npm install -global gatsby-cli
-yarn
-gatsby develop
-yarn add bootstrap @popperjs/core sass gatsby-plugin-sass
-```
+Rogoff argues that unlike physical gold, Bitcoin’s use is limited to transactions, which makes it more vulnerable to a bubble-like collapse. Additionally, the cryptocurrency’s energy-intensive verification process is “vastly less efficient” than systems that rely on “a trusted central authority like a central bank.”
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+# Increasing Scrutiny
+Bitcoin’s main benefits of decentralization and transaction anonymity have also made it a favored currency for a host of illegal activities including money laundering, drug peddling, smuggling and weapons procurement. This has attracted the attention of powerful regulatory and other government agencies such as the Financial Crimes Enforcement Network (FinCEN), the SEC, and even the FBI and Department of Homeland Security (DHS). In March 2013, FinCEN issued rules that defined virtual currency exchanges and administrators as money service businesses, bringing them within the ambit of government regulation. In May that year, the DHS froze an account of Mt. Gox – the largest Bitcoin exchange – that was held at Wells Fargo, alleging that it broke anti-money laundering laws. And in August, New York’s Department of Financial Services issued subpoenas to 22 emerging payment companies, many of which handled Bitcoin, asking about their measures to prevent money laundering and ensure consumer protection.
 
-# Where can I get some?
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+# Alternatives to Bitcoin
+Despite its recent issues, Bitcoin’s success and growing visibility since its launch has resulted in a number of companies unveiling alternative cryptocurrencies, such as:
 
-> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.
-### Heading
+Litecoin – Litecoin is regarded as Bitcoin's leading rival at present, and it is designed for processing smaller transactions faster. It was founded in October 2011 as "a coin that is silver to Bitcoin’s gold,” according to founder Charles Lee. Unlike the heavy computer horsepower required for Bitcoin mining, Litecoins can be mined by a normal desktop computer. Litecoin’s maximum limit is 84 million – four times Bitcoin’s 21-million limit – and it has a transaction processing time of about 2.5 minutes, about one-fourth that of Bitcoin.
+Ripple – Ripple was launched by OpenCoin, a company founded by technology entrepreneur Chris Larsen in 2012. Like Bitcoin, Ripple is both a currency and a payment system. The currency component is XRP, which has a mathematical foundation like Bitcoin. The payment mechanism enables the transfer of funds in any currency to another user on the Ripple network within seconds, in contrast to Bitcoin transactions, which can take as long as 10 minutes to confirm.
+MintChip – Unlike most cryptocurrencies, MintChip is actually the creation of a government institution, specifically the Royal Canadian Mint. MintChip is a smartcard that holds electronic value and can transfer it securely from one chip to another. Like Bitcoin, MintChip does not need personal identification; unlike Bitcoin, it is backed by a physical currency, the Canadian dollar.
+The Future
+Some of the limitations that cryptocurrencies presently face – such as the fact that one’s digital fortune can be erased by a computer crash, or that a virtual vault may be ransacked by a hacker – may be overcome in time through technological advances. What will be harder to surmount is the basic paradox that bedevils cryptocurrencies – the more popular they become, the more regulation and government scrutiny they are likely to attract, which erodes the fundamental premise for their existence.
 
-It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+While the number of merchants who accept cryptocurrencies has steadily increased, they are still very much in the minority. For cryptocurrencies to become more widely used, they have to first gain widespread acceptance among consumers. However, their relative complexity compared to conventional currencies will likely deter most people, except for the technologically adept.
+
+A cryptocurrency that aspires to become part of the mainstream financial system may have to satisfy widely divergent criteria. It would need to be mathematically complex (to avoid fraud and hacker attacks) but easy for consumers to understand; decentralized but with adequate consumer safeguards and protection; and preserve user anonymity without being a conduit for tax evasion, money laundering and other nefarious activities. Since these are formidable criteria to satisfy, is it possible that the most popular cryptocurrency in a few years’ time could have attributes that fall in between heavily-regulated fiat currencies and today’s cryptocurrencies? While that possibility looks remote, there is little doubt that as the leading cryptocurrency at present, Bitcoin’s success (or lack thereof) in dealing with the challenges it faces may determine the fortunes of other cryptocurrencies in the years ahead.
+
+# Should You Invest in Cryptocurrencies?
+If you are considering investing in cryptocurrencies, it may be best to treat your “investment” in the same way you would treat any other highly speculative venture. In other words, recognize that you run the risk of losing most of your investment, if not all of it. As stated earlier, a cryptocurrency has no intrinsic value apart from what a buyer is willing to pay for it at a point in time. This makes it very susceptible to huge price swings, which in turn increases the risk of loss for an investor. Bitcoin, for example, plunged from $260 to about $130 within a six-hour period on April 11, 2013. If you cannot stomach that kind of volatility, look elsewhere for investments that are better suited to you. While opinion continues to be deeply divided about the merits of Bitcoin as an investment – supporters point to its limited supply and growing usage as value drivers, while detractors see it as just another speculative bubble – this is one debate that a conservative investor would do well to avoid.
+
+# Conclusion
+The emergence of Bitcoin has sparked a debate about its future and that of other cryptocurrencies. Despite Bitcoin’s recent issues, its success since its 2009 launch has inspired the creation of alternative cryptocurrencies such as Etherium, Litecoin, and Ripple. A cryptocurrency that aspires to become part of the mainstream financial system would have to satisfy very divergent criteria. While that possibility looks remote, there is little doubt that Bitcoin’s success or failure in dealing with the challenges it faces may determine the fortunes of other cryptocurrencies in the years ahead.

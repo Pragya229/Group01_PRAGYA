@@ -3,7 +3,7 @@ import Accordion from "../Accordion/Accordion"
 
 const Item = [
   {
-    title: "Can I Play a Quiz More than Once?",
+    title: "Can I take the quiz more than once?",
     content: `
     Yes, you can play every quiz as many times as you like.`,
   },
@@ -17,6 +17,16 @@ const Item = [
   {
     title: "Can we save our drawings?",
     content: `Yes, absolutely you can download and save your drawings.`,
+  },
+
+  {
+    title: "Can I add text to my drawing?",
+    content: `Yes! Text tool in draw section is provided for this purpose.`,
+  },
+
+  {
+    title: "What are the categories of blog available?",
+    content: `The blog section consists of hot and current topics worldwide.`,
   },
 ]
 
