@@ -14,11 +14,10 @@ export default function About() {
         <h1 class="display-10 fw-bold lh-1 mb-3 text-center text-bold">About Us </h1>
         <div class="container col-xxl-20 px-2 py-2">
         <h2 class="display-10 fw-bold lh-1 mb-3 ">What is BRAINZONE?</h2>
-          <p class="lead">“BRAINZONE” or we can also say “ Fun Group Project” is an innovative platform which provides quizzes , 
-          and digital paint to increase imaginative thinking of the user . 
+          <p class="lead">“BRAINZONE” is a Fun Website, an innovative platform which provides quiz to solve, 
+          drawing to enhance the digital creativityand blogs on various different current topics to read. 
           This platform is designed in such a way that people of all age groups can participate in the activities according to their choices.
-          This website is a source of entertainment in which the general or specific knowledge of the players is tested by a series of questions.
-          Users can also show their innovation on the white board provided by this website.</p>
+          This website is a source of entertainment, and at the same time very informative.</p>
 
 
           <h2 class="display-10 fw-bold lh-1 mb-3 ">DRAW</h2>  
@@ -32,7 +31,7 @@ export default function About() {
 
          <h2 class="display-10 fw-bold lh-1 mb-3 ">BLOG</h2>  
 
-          <p class="lead"> A blog is a frequently updated. In this section user can read articles and view images according to their interests. It is a fun activity and at the same time it is informative.</p>
+          <p class="lead"> A blog is a frequently updated. In this section user can read articles and view images according to their interests. It is informative and builds the habit of reading amongst the users on various current happenings aroundthe world in diggerent fields.</p>
 
          
 

@@ -20,12 +20,10 @@ const Hero = () => {
             BRAINZONE
           </h1>
           <p className="lead">
-          “BRAINZONE” or we can also say “ Fun Group Project” is an innovative platform which provides quizzes,
-          and digital paint to increase imaginative thinking of the user. 
-          This platform is designed in such a way that people of all age groups can participate in the
-          activities according to their choices. This website is a source of entertainment in which the general or 
-          specific knowledge of the players is tested by a series of questions. Users can also show their innovation on the 
-          white board provided by this website.
+          “BRAINZONE” is a Fun Website, an innovative platform which provides quiz to solve, 
+          drawing to enhance the digital creativityand blogs on various different current topics to read. 
+          This platform is designed in such a way that people of all age groups can participate in the activities according to their choices.
+          This website is a source of entertainment, and at the same time very informative....So Lets Explore
           </p>
           
         </div>
